@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>consumer.png</file>
+        <file>product.png</file>
+        <file>worker.png</file>
+        <file>conveyor224px.png</file>
+        <file>conveyor.png</file>
+    </qresource>
+    <qresource prefix="/qss">
+        <file>qslider.qss</file>
+    </qresource>
+</RCC>
