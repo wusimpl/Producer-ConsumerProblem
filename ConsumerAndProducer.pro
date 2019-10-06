@@ -41,7 +41,8 @@ HEADERS += \
     consumer.h \
     conveyor.h \
     fishanimation.h \
-    qssutil.h
+    qssutil.h \
+    shared.h
 
 FORMS += \
         mainwindow.ui
